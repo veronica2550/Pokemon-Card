@@ -10,6 +10,6 @@
         <img src="assets/images/detail.jpg" alt="포켓몬 상세 화면" style="max-width: 100%; height: auto;">
     </div>
     <div style="flex: 1;">
-        <iframe width="100%" height="auto" src="https://youtube.com/shorts/2R5rMZqI3qw?feature=share" frameborder="0" allowfullscreen></iframe>
+        <iframe width="100%" height="auto" src="assets/images/pokemon_app.mp4" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
