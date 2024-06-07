@@ -61,8 +61,7 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  assets:
-    - assets/images/pokemon_logo.svg
+  # assets:
     # - assets/
     # - assets/images/
     # - assets/icons/
